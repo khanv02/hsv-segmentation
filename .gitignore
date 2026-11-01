@@ -31,6 +31,7 @@ junit.xml
 repomix-output.*
 template.md
 PROJECT_GUIDE.local.md
+HUONG_DAN_DEMO.md
 
 # Locally installed design skills are development tools, not application source.
 .agents/skills/banner-design/

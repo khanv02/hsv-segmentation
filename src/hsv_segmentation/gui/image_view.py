@@ -15,7 +15,7 @@ class ImageView(ttk.LabelFrame):
 
     MIN_ZOOM = 0.25
     MAX_ZOOM = 8.0
-    ZOOM_STEP = 1.25
+    ZOOM_STEP = 1.15
     IMAGE_BACKGROUND = COLORS["image_background"]
     DEFAULT_PLACEHOLDER = "Open an image or video to begin"
 
